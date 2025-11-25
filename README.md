@@ -36,8 +36,8 @@ interativos
 
 Como rodar: 
 1. Baixe o repositório
-2.  Abra o projeto na Godot
-3. Executea cena principal (Main.tscn)
+2. Abra o projeto na Godot
+3. Execute a cena principal (Main.tscn)
 
 
 **Autor: Ian Sampaio**
